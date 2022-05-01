@@ -7,7 +7,7 @@
 import pandas as pd
 
 df = pd.read_csv(r'Olist_customers_dataset.csv')
-df.head(21)
+df.head(20)
 
 import pandas as pd
 df = pd.read_csv(r'Olist_geolocation_dataset.csv')
